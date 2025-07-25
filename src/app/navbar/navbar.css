@@ -1,0 +1,17 @@
+.active{
+    background-color: #1ABC9C;
+}
+
+.navbar {
+    background-color: #2C3E50;
+}
+
+.navbar-header {
+    margin-bottom:  16px;
+    padding: 5px 0;
+}
+
+.nav-item a {
+    text-decoration: none;
+    padding: 10px;
+}

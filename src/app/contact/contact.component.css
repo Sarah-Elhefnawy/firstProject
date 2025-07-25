@@ -1,0 +1,26 @@
+.contact{
+    margin-top: 98px;
+}
+
+.contact h2{
+    color: #2C3E50;
+}
+
+.contact .star-icon {
+    color: #2C3E50;
+}
+
+form{
+    color: #2C3E50;
+}
+
+.form-control:focus {
+    border-color: var(--bs-border-color);
+    outline: 0;
+    box-shadow: none;
+}
+
+.btn-custom {
+    background-color: #1ABC9C;
+    padding: 6px 12px;
+}
